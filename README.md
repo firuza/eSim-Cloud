@@ -3,6 +3,10 @@ eSim and Arduino on Cloud
 </h1>
 <h6 align="center"> 
 
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-7-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
+
 [![Documentation Status](https://readthedocs.org/projects/esim-cloud/badge/?version=latest)](https://esim-cloud.readthedocs.io/en/latest/?badge=latest)
 [![Discord](https://img.shields.io/discord/737767491266281583?color=blue&label=chat%20with%20us&logo=discord)](https://discord.gg/cZbDD8K)
 
@@ -30,6 +34,10 @@ This system allows the users to draw analog and digital circuits and simulate th
 This system allows the users to drag and drop Arduino components from the left pane onto the working space on the right. The pins of the Arduino board can be connected to various input/output devices like LED, motor, push button, etc using wires. There is also a facility to change the color of wires, LEDs, and such components, so as to differentiate the easily. The users can then proceed to write their code in the code window which is then simulated. There is an option for the users to print or save it in pdf format for documentation purposes. The basic ERC check enables the users to find out errors if any. A demo is shown below.
 
 ![Arduino Demo](demo/demo-arduino.gif)
+
+## Documentation 
+
+The latest version of documentation for the project is maintained on [esim-cloud.readthedocs.io](https://esim-cloud.readthedocs.io/)
 
 ## Installation
 
@@ -136,3 +144,29 @@ This system allows the users to drag and drop Arduino components from the left p
 
 ## Contributing 
 Want to contribute? See our [contributing guidelines](CONTRIBUTING.md). Contributions in any form are welcome.
+
+## Contributors ✨
+
+Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tr>
+    <td align="center"><a href="http://darshkpatel.com"><img src="https://avatars.githubusercontent.com/u/11258286?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Darsh Patel</b></sub></a><br /><a href="https://github.com/frg-fossee/eSim-Cloud/commits?author=darshkpatel" title="Code">💻</a> <a href="https://github.com/frg-fossee/eSim-Cloud/commits?author=darshkpatel" title="Documentation">📖</a> <a href="#infra-darshkpatel" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a></td>
+    <td align="center"><a href="https://www.linkedin.com/in/darshan-sudake-a640ba1b1/"><img src="https://avatars.githubusercontent.com/u/42094875?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Darshan Sudake</b></sub></a><br /><a href="https://github.com/frg-fossee/eSim-Cloud/commits?author=dssudake" title="Code">💻</a> <a href="https://github.com/frg-fossee/eSim-Cloud/commits?author=dssudake" title="Documentation">📖</a> <a href="#design-dssudake" title="Design">🎨</a></td>
+    <td align="center"><a href="https://felixfaisal.github.io/"><img src="https://avatars.githubusercontent.com/u/42486737?v=4?s=100" width="100px;" alt=""/><br /><sub><b>felixfaisal</b></sub></a><br /><a href="https://github.com/frg-fossee/eSim-Cloud/commits?author=felixfaisal" title="Code">💻</a> <a href="https://github.com/frg-fossee/eSim-Cloud/commits?author=felixfaisal" title="Documentation">📖</a> <a href="#design-felixfaisal" title="Design">🎨</a></td>
+    <td align="center"><a href="https://github.com/rohitgeddam"><img src="https://avatars.githubusercontent.com/u/48797475?v=4?s=100" width="100px;" alt=""/><br /><sub><b>rohitgeddam</b></sub></a><br /><a href="https://github.com/frg-fossee/eSim-Cloud/commits?author=rohitgeddam" title="Code">💻</a> <a href="https://github.com/frg-fossee/eSim-Cloud/commits?author=rohitgeddam" title="Documentation">📖</a> <a href="#design-rohitgeddam" title="Design">🎨</a></td>
+    <td align="center"><a href="http://navonildas.github.io/"><img src="https://avatars.githubusercontent.com/u/29132316?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Navonil Das</b></sub></a><br /><a href="https://github.com/frg-fossee/eSim-Cloud/commits?author=NavonilDas" title="Code">💻</a> <a href="https://github.com/frg-fossee/eSim-Cloud/commits?author=NavonilDas" title="Documentation">📖</a> <a href="#design-NavonilDas" title="Design">🎨</a></td>
+    <td align="center"><a href="https://github.com/meet-10"><img src="https://avatars.githubusercontent.com/u/61341284?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Meet10</b></sub></a><br /><a href="https://github.com/frg-fossee/eSim-Cloud/commits?author=meet-10" title="Code">💻</a> <a href="https://github.com/frg-fossee/eSim-Cloud/commits?author=meet-10" title="Documentation">📖</a> <a href="#design-meet-10" title="Design">🎨</a></td>
+    <td align="center"><a href="https://github.com/gupta-arpit"><img src="https://avatars.githubusercontent.com/u/12170429?v=4?s=100" width="100px;" alt=""/><br /><sub><b>gupta-arpit</b></sub></a><br /><a href="https://github.com/frg-fossee/eSim-Cloud/commits?author=gupta-arpit" title="Code">💻</a> <a href="#design-gupta-arpit" title="Design">🎨</a></td>
+  </tr>
+</table>
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
